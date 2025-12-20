@@ -55,3 +55,9 @@ tmp/
 
 # Apple Silicon Docker Compose Override
 docker-compose.override.yml
+
+# Claude Code local config (may contain API keys)
+.claude/
+
+# Beads issue tracker (local database)
+.beads/
